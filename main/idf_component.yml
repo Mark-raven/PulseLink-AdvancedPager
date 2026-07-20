@@ -1,0 +1,3 @@
+dependencies:
+  hci_common_component:
+    path: D:/ESP32-ProjectsAndLearning/ESP32Testing/Pager-Final/PagerFinal/main/hci_common_component
