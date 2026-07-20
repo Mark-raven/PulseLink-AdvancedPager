@@ -1,12 +1,12 @@
 # 📟 PulseLink
 
-A portable smart pager built using the **ESP32-S3** and **ESP-IDF**, designed for real-time wireless communication over **Bluetooth Low Energy (BLE)** and **Wi-Fi**. LinkPager combines embedded software, wireless networking, and an intuitive OLED-based user interface into a compact handheld communication device.
+A portable smart pager built using the **ESP32-S3** and **ESP-IDF**, designed for real-time wireless communication over **Bluetooth Low Energy (BLE)** and **Wi-Fi**. PulseLink combines embedded software, wireless networking, and an intuitive OLED-based user interface into a compact handheld communication device.
 
 ---
 
 ## 📖 Overview
 
-LinkPager demonstrates the practical implementation of modern embedded systems by integrating BLE messaging, Wi-Fi communication, wireless scanning, and a menu-driven interface. The device allows users to exchange messages with a mobile device, scan nearby BLE devices and Wi-Fi networks, receive notifications through a buzzer, and navigate using dedicated hardware buttons.
+PulseLink demonstrates the practical implementation of modern embedded systems by integrating BLE messaging, Wi-Fi communication, wireless scanning, and a menu-driven interface. The device allows users to exchange messages with a mobile device, scan nearby BLE devices and Wi-Fi networks, receive notifications through a buzzer, and navigate using dedicated hardware buttons.
 
 The project is developed entirely in **Embedded C** using **ESP-IDF** and follows a modular FreeRTOS task-based architecture.
 
@@ -77,7 +77,7 @@ The project is developed entirely in **Embedded C** using **ESP-IDF** and follow
 # 📂 Project Structure
 
 ```
-LinkPager/
+PulseLink/
 │
 ├── main/
 │   ├── app_bt.c
@@ -137,13 +137,14 @@ LinkPager/
 
 # 📷 Demo
 
-<img width="728" height="1600" alt="LinkPulse-1" src="https://github.com/user-attachments/assets/569e2b74-8147-47e5-a4f7-295003b4048d" />
+
+<img width="728" height="573" alt="LinkPulse-1" src="https://github.com/user-attachments/assets/cf689b94-16e0-4113-add3-5883b66aa891" />
 
 
-<img width="1600" height="728" alt="LinkPulse-2" src="https://github.com/user-attachments/assets/82e1fbf7-e7ea-468a-9d58-c8087a4a5a2f" />
+<img width="1179" height="728" alt="LinkPulse-2" src="https://github.com/user-attachments/assets/65e286d4-284c-4489-90bb-f3745ba8df36" />
 
 
-<img width="728" height="1600" alt="LinkPulse-1" src="https://github.com/user-attachments/assets/489c196d-d2fe-45c4-a934-d2496a7e16e6" />
+<img width="1043" height="705" alt="LinkPulse-3" src="https://github.com/user-attachments/assets/0a067a69-f573-4a53-8bac-ddcc1c198225" />
 
 
 
